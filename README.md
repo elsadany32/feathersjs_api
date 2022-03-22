@@ -2,23 +2,16 @@
 
 > 
 
-## About
+#####Feathersjs_product_CRUD
 
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
-
-## Getting Started
-
-Getting up and running is as easy as 1, 2, 3.
-
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-2. Install your dependencies
+ 
+ 1. Install your dependencies
 
     ```
-    cd path/to/father-task
     npm install
     ```
 
-3. Start your app
+2. Start your app
 
     ```
     npm start
@@ -28,18 +21,14 @@ Getting up and running is as easy as 1, 2, 3.
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
 
-## Scaffolding
+## referance
 
 Feathers has a powerful command line interface. Here are a few things it can do:
 
 ```
-$ npm install -g @feathersjs/cli          # Install Feathers CLI
-
-$ feathers generate service               # Generate a new Service
-$ feathers generate hook                  # Generate a new Hook
-$ feathers help                           # Show all commands
+$ http://localhost:3030/users             #  for register auth >> /post method
+$ http://localhost:3030/authentication    # for login auth >> /post method
+$ http://localhost:3030/products          # to get all products >> /get method
+$ http://localhost:3030/products/id       # to get specific product >> /get method  or /patch method for updating a product or /delets method for deleteing a product
 ```
-
-## Help
-
-For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+ 
