@@ -46,7 +46,7 @@ $ http://localhost:3030/authentication      for Login Authentication
 "password":"123456"
 }
  ```
- 
+  then take token and put it in Bearer to can make CRUD operation for product for this user
  
  ```
 
