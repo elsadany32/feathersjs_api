@@ -15,8 +15,6 @@
 
 ## referance
 
-Feathers has a powerful command line interface. Here are a few things it can do:
-
 ```
 $ http://localhost:3030/users             #  for register auth >> /post method
 $ http://localhost:3030/authentication    # for login auth >> /post method
