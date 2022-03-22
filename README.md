@@ -1,8 +1,4 @@
-# father-task
-
-> 
-
-#####Feathersjs_product_CRUD
+##### Feathersjs product_CRUD
 
  
  1. Install your dependencies
@@ -16,10 +12,6 @@
     ```
     npm start
     ```
-
-## Testing
-
-Simply run `npm test` and all your tests in the `test/` directory will be run.
 
 ## referance
 
