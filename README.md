@@ -47,3 +47,28 @@ $ http://localhost:3030/authentication      for Login Authentication
 }
  ```
  
+ 
+ ```
+
+$ http://localhost:3030/products/id      for update or get or delete specific product 
+
+{
+"email":"user01@gmail.com",
+"password":"123456"
+}
+ ```
+ 
+ 
+ ```
+
+$ http://localhost:3030/products      for get all products or create new product
+
+{
+"name":"product 01",
+"price":20,
+"desc":"product desc",
+"image":"link product image (if U are using cloudnary or s3 storage on aws)",
+"inStock":30
+}
+ ```
+ 
