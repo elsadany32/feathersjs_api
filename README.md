@@ -24,13 +24,24 @@ $ http://localhost:3030/products/id       # to get specific product >> /get meth
  
 
 
-## exmp
+## exmple
 
 ```
-$ http://localhost:3030/users      for Register auth
+$ http://localhost:3030/users      for Register Authentication 
 
 {
 "name":"user01",
+"email":"user01@gmail.com",
+"password":"123456"
+}
+ ```
+ 
+ 
+```
+
+$ http://localhost:3030/authentication      for Login Authentication 
+
+{
 "email":"user01@gmail.com",
 "password":"123456"
 }
