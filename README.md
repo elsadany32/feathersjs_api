@@ -22,3 +22,13 @@ $ http://localhost:3030/products          # to get all products >> /get method
 $ http://localhost:3030/products/id       # to get specific product >> /get method  or /patch method for updating a product or /delets method for deleteing a product
 ```
  
+
+
+## exmp
+
+```
+$ http://localhost:3030/users             #  {"name":"user01",
+"email":"user01@gmail.com",
+"password":"123456"
+ ```
+ 
