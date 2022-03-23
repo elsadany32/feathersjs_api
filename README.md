@@ -43,10 +43,11 @@ $ http://localhost:3030/authentication      for Login Authentication
 
 {
 "email":"user01@gmail.com",
-"password":"123456"
+"password":"123456",
+"stratege":"local"
 }
  ```
-  then take token and put it in Bearer to can make CRUD operation for product for this user and by default Feathersjs gives U number of total products and limit for eany pagination 
+  then take token and put it in Bearer to can make CRUD operation on product for this user and by default Feathersjs gives U number of total products and limit for eany pagination 
  
  ```
 
