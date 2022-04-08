@@ -7,7 +7,7 @@
     npm install.
     ```
 
-2. Start your app
+2. Start your app .
 
     ```
     npm start
