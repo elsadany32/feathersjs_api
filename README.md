@@ -24,7 +24,7 @@ $ http://localhost:3030/products/id       # to get specific product >> /get meth
  
 
 
-## exmple
+## exmple .
 
 ```
 $ http://localhost:3030/users      for Register Authentication 
