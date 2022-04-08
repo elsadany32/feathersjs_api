@@ -4,7 +4,7 @@
  1. Install your dependencies
 
     ```
-    npm install
+    npm install.
     ```
 
 2. Start your app
