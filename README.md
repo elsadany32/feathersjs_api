@@ -13,7 +13,7 @@
     npm start
     ```
 
-## referance
+## referance 
 
 ```
 $ http://localhost:3030/users             #  for register auth >> /post method
